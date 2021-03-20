@@ -1,3 +1,5 @@
+This single-page to-do application features a fluid user interface that allows users to rapidly add dynamic content and create to-do lists.
+
 Link for the project: https://react-todoist.herokuapp.com/
 
 
